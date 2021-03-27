@@ -1,3 +1,8 @@
+.DS_Store
+dataops/.DS_Store
+dataops/exercicio01/.DS_Store
+dataops/exercicio01/images/.DS_Store
+
 dataops/airflow/dags/*
 dataops/airflow/logs/*
 dataops/airflow/plugins/*

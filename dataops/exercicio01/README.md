@@ -30,6 +30,7 @@ Criando seu repositorio
 Execute os comandos abaixo para criar os arquivos no repositório criado
 
 ```
+mkdir HelloWorld
 echo "# HelloWorld" >> README.md
 git init
 git add README.md

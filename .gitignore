@@ -1,0 +1,3 @@
+dataops/airflow/dags/*
+dataops/airflow/logs/*
+dataops/airflow/plugins/*

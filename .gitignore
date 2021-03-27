@@ -1,0 +1,6 @@
+dataops/airflow/dags/*
+dataops/airflow/logs/*
+dataops/airflow/plugins/*
+dataops/gitlabdocker/config/*
+dataops/gitlabdocker/data/*
+dataops/gitlabdocker/logs/*
